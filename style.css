@@ -1,0 +1,20 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1  {
+    margin-left: 70px;
+}
+
+button:hover {
+    background: red;
+}
+
+select:hover {
+    background: orange;
+}
+
+#content {
+    margin-left: 125px;
+}
